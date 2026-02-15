@@ -1,0 +1,12 @@
+# Backend folder (only for context, not needed for deploy)
+backend/
+
+# Prompts folder (only for context)
+prompts/
+
+# Development files
+.env.local
+*.log
+
+# Distintos MD
+*.md
