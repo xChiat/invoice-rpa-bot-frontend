@@ -29,3 +29,6 @@ prompts/*
 
 # Backend for context
 backend/*
+
+# Vercel
+.vercel
